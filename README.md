@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SaifTgit
 - 👀 I’m interested in MERN Stack development
 - 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on tany application based on MERN Stack
+- 💞️ I’m looking to collaborate on any application based on MERN Stack
 - 📫 How to reach me ==> mail me on this id 
 
 <!---
